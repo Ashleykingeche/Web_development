@@ -1,0 +1,30 @@
+body {
+    background-color: orange;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-color: aqua;
+}
+
+h1{
+    color:brown;
+}
+#para1{
+    color:hotpink;
+    border-style: solid;
+    border-color: blanchedalmond;
+    color: darkgray;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    border-top-style:dotted
+
+}
+#param2 {
+    border-style: dashed;
+    color:chartreuse;
+}
+.one{
+    font-style: italic;
+    font-size: 10px;
+    color:darkblue;
+    background-color: black;
+}
